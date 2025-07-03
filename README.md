@@ -1,7 +1,7 @@
 # Task-7 : Support Vector Machines (SVM)
 
-# Objective: Use SVMs for linear and non-linear classification.
-# Tools:  Scikit-learn, NumPy, Matplotlib
+ Objective: Use SVMs for linear and non-linear classification.
+ Tools:  Scikit-learn, NumPy, Matplotlib
 
 # Step-by-Step Procedure :
       1.Load and prepare a dataset for binary classification.
